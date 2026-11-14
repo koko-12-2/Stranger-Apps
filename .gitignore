@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/.DS_Store
+/build
+*/build
+/captures
+.externalNativeBuild
+.cxx
+*.jks
+*.keystore
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.log
+*.bin
+*.lock
+*.war
+*.zip
+*.tar
+*.gz
+
+# Kotlin
+*.kt~
+
+# Android Studio
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
